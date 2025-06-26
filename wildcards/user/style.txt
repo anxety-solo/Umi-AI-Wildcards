@@ -2,12 +2,12 @@ character sheet, reference sheet
 sketch, thick outlines, black and white
 illustration
 3d
-painting \(medium\) 
-colored pencil \(medium\) 
-graphite \(medium\) 
-marker \(medium\) 
+painting \(medium\)
+colored pencil \(medium\)
+graphite \(medium\)
+marker \(medium\)
 traditional media
-watercolor \(medium\) 
+watercolor \(medium\)
 real life
 movie poster
 composition kandinsky
@@ -40,7 +40,7 @@ fate/grand order fgo
 granblue fantasy
 blue archive
 comic manga
-disgae 
+disgae
 jewelpet style
 pripara
 love live!, lovelive

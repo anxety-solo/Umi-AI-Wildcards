@@ -4,9 +4,9 @@ The magical location is situated in a lush, exotic tropical biome. The vibrant c
 
 
 The magical location is situated in an exotic biome on a distant fantasy planet. Beneath a canopy of lush, vibrant foliage lies a tranquil oasis, illuminated by the ethereal light of a full moon that reflects off the still waters of a crystal clear pool. The air is thick with the sweet, fragrant scents of night-blooming flowers, and the chirping of nocturnal creatures can be heard in the shadows of the trees. An otherworldly chill permeates the air, the result of a powerful icy wind that whips through the biome with the strength of a hurricane. (moonlight, exotic, lush, tranquil, ethereal, fragrant, nocturnal, otherworldly, chill, powerful, icy, wind, hurricane, fantasy, planet, canopy, foliage, oasis, pool, night-blooming, flowers, shadows, trees, full_moon, reflection, crystal_clear, air, sweet, scent).
- 
- 
- 
+
+
+
 The magical location found in the exotic biome of the fantasy planet is a mesmerizing paradise with rolling emerald hills, lush canopies of vibrant foliage, and dramatic, towering mountain vistas. Sweet, fragrant air is illuminated by an ethereal, magical light that casts an enchanting hue upon the landscape. Despite the seemingly perfect weather, extreme storms often roll in without warning. Violent winds whip through the valleys and pull up torrents of rain, while lightning crackles across the night sky, illuminating the dense foliage in its wake.
 
 (lush, foliage), (rolling, hills), (dramatic, mountain, vistas), (ethereal, light), (enchanting, hue), (extreme, storms), (violent, winds), (torrents, rain), (lightning), (dense, foliage).

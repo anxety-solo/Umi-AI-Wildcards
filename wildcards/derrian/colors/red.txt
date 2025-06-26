@@ -1,9 +1,9 @@
 red
 dark red
 light red
-firebrick 
+firebrick
 indian red
-dark salmon	
+dark salmon
 light coral
 salmon
 lightsalmon

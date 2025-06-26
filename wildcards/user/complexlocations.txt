@@ -133,7 +133,7 @@ riding a horse, horseback, on a horse
 pet store, animal focus, cats, dogs, multiple animals, cages, concrete walls, concrete floors
 airport, airplanes, windows, big open space, multiple people, multiple boys, multiple girls, luggage, bags, suitcases, crowd
 island, light house, houses, sunrays, ocean, water
-christmas snow town, ((sleigh)), reindeer, present box, santa 
+christmas snow town, ((sleigh)), reindeer, present box, santa
 sailing the sea, sea, boat, waves, sunrays, godrays, light particles, water particles, sails
 alleyway, trash, vending machine, trash bags, litter, littered, paper, plastic bags
 inside of a train, train, windows, multiple people, multiple girls, multiple boys, crowd

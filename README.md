@@ -1,17 +1,8 @@
-# Fork
-Opinionated fork of UmiAI with some small changes that I consider improvements. 
-
-The wildcards in the derrian directory come from https://gitgud.io/psuedo/wildcards_stuff, it includes some very nice recursive ones.
-
-Most of the wildcards in user directory come from wonderful users of Touhou Project AI discord, thanks guys.
-
-I advise using this with https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.
-
-## Installation 
+## Installation
 Install it as you would any other extension, either by:
  - dropping the URL `https://github.com/Tsukreya/Umi-AI-Wildcards` into the install from URL box and pressing install.
  - or running `git clone https://github.com/Tsukreya/Umi-AI-Wildcards` inside the webui extensions folder.
-   
+
 Either way a restart of the webui if you have it currently running is advised, so that the autocomplete extension (which I recommend once again) to pick up on the wildcards.
 
 ### Settings override usage:
@@ -50,7 +41,7 @@ WebUI Prompt Reference
 * `text1 AND text2` creates a prompt that is a mix of the prompts `text1` and `text2` can be modified by adding `:x` like `text1:x AND text2:y`
 
 <details><summary>Original README file.</summary>
-    
+
 # Umi AI: A WebUI Wildcard Mod!
 
 Umi AI is a wildcard mod that allows you to create randomized characters from random species with modular clothing types. It will grow over time and eventually become the ultimate character randomizer and creator.

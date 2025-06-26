@@ -4,7 +4,7 @@ dark gray
 dim gray
 silver
 light gray
-gainsboro	
+gainsboro
 lightslate gray
-slate gray	
+slate gray
 dark late gray
